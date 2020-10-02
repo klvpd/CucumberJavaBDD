@@ -1,0 +1,178 @@
+[
+  {
+    "line": 19,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-02T05:26:08.485Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5648907800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.setup()"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "User should be able to login with valid user id and valid password",
+        "description": "",
+        "id": "validate-automationpractice-login-functionality;user-should-be-able-to-login-with-valid-user-id-and-valid-password",
+        "after": [
+          {
+            "result": {
+              "duration": 3019470300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Steps.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16794500,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User Launch browser",
+            "match": {
+              "location": "stepDefinitions.Steps.user_launch_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1208730900,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User opens URL \"https://admin-demo.nopcommerce.com/admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://admin-demo.nopcommerce.com/admin\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_opens_url(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 198999100,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User enters valid user id \"admin@yourstore.com\" and valid password \"admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin@yourstore.com\"",
+                  "offset": 26
+                },
+                {
+                  "val": "\"admin\"",
+                  "offset": 67
+                }
+              ],
+              "location": "stepDefinitions.Steps.user_enters_valid_user_id_and_valid_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5514148300,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "User clicks login button",
+            "match": {
+              "location": "stepDefinitions.Steps.user_clicks_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6799900,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "Page title should be \"Dashboard / nopCommerce administration\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dashboard / nopCommerce administration\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.Steps.page_title_should_be(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3135018500,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "User click on logout button",
+            "match": {
+              "location": "stepDefinitions.Steps.user_click_on_logout_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5701500,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "Page title should be \"Your store. Login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Your store. Login\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.Steps.page_title_should_be(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 41463400,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "close browser",
+            "match": {
+              "location": "stepDefinitions.Steps.close_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Sanity"
+          },
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Validate AutomationPractice Login functionality",
+    "description": "",
+    "id": "validate-automationpractice-login-functionality",
+    "keyword": "Feature",
+    "uri": "file:Features/Login.feature",
+    "tags": []
+  }
+]

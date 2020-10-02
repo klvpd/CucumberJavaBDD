@@ -1,0 +1,66 @@
+[main] INFO  CucumberJavaBDD  - Launching browser
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser
+[main] INFO  CucumberJavaBDD  - Launching browser"edge"
+[main] INFO  CucumberJavaBDD  - Launching browseredge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Adding new customer
+[main] INFO  CucumberJavaBDD  - ******Entering new customer information*******
+[main] INFO  CucumberJavaBDD  - New Customer Added
+[main] INFO  CucumberJavaBDD  - Launching browseredge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Adding new customer
+[main] INFO  CucumberJavaBDD  - Searching Customer details...
+[main] INFO  CucumberJavaBDD  - Customer details found
+[main] INFO  CucumberJavaBDD  - Launching browseredge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Adding new customer
+[main] INFO  CucumberJavaBDD  - ******Entering new customer information*******
+[main] ERROR CucumberJavaBDD  - Add a new customer has failed
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Adding new customer
+[main] INFO  CucumberJavaBDD  - Searching Customer details...
+[main] INFO  CucumberJavaBDD  - Customer details found
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
+[main] INFO  CucumberJavaBDD  - Launching browser edge
+[main] INFO  CucumberJavaBDD  - Opening URL
+[main] INFO  CucumberJavaBDD  - Attempting Login
+[main] INFO  CucumberJavaBDD  - Logging out
