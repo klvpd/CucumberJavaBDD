@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="18.985">
-    <testcase classname="Validate AutomationPractice Login functionality" name="User should be able to login with valid user id and valid password" time="18.852">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="19.34">
+    <testcase classname="Validate AutomationPractice Login functionality" name="User should be able to login with valid user id and valid password" time="19.207">
         <system-out>
             <![CDATA[Given User Launch browser...................................................passed
 When User opens URL "https://admin-demo.nopcommerce.com/admin"..............passed
